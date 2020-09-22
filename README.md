@@ -26,11 +26,13 @@ We also provide scripts and data aimed at reproducing the analysis and figures p
 
 ## List of directories and files
 
-1. Data
+1. BatBookChap21.Rproj -> R project file. Run it first.
+
+2. Data
 
     a. chapter 21 supplement.xlsx -> main supplements of our chapter, mentioned in the book.
   
-2. Analysis
+3. Analysis
  
     a. chap21.R -> script for reproducing the analysis and figures.
     
