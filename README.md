@@ -1,6 +1,6 @@
 # BatBookChap21
 
-Supplementary material of chapter 21 of the book ["Phyllostomid Bats: A Unique Mammalian Radiation"](https://amzn.to/2FIKcAQ)
+Supplementary material of chapter 21 of the book ["Phyllostomid Bats: A Unique Mammalian Radiation"](https://amzn.to/2FIKcAQ), edited by Theodore H. Fleming, Liliana M. Dávalos, and Marco A. R. Mello, and published by the University of Chicago Press.
 
 If you want to buy our book, click [here](https://amzn.to/2FIKcAQ).
 
