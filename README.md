@@ -36,7 +36,7 @@ We also provide scripts and data aimed at reproducing the analysis and figures p
  
     a. chap21.R -> script for reproducing the analysis and figures.
     
-    b. MyTriangle.R -> function needed for creating a diamond shape used in Fig.21.3.
+    b. MyTriangle.R -> R function needed for creating the diamond shape used in Fig.21.3.
     
     c. sarmento.txt -> data from the Sarmento network. Originally published by [Sarmento et al. (2014, Zoologia)](http://dx.doi.org/10.1590/S1984-46702014000300006).
     
