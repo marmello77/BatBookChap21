@@ -41,7 +41,7 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
  
     a. chap21.R -> script for reproducing the analysis and figures.
     
-    b. MyTriangle.R -> R function required for creating the diamond shape used in Fig.21.3.
+    b. MyTriangle.R -> R function required for creating the diamond shape used in Fig.21.3 and procuded with code from "chap21.R".
     
     c. sarmento.txt -> data from the Sarmento bat-bird-plant network. Originally published by [Sarmento et al. (2014, Zoologia)](http://dx.doi.org/10.1590/S1984-46702014000300006).
     
@@ -49,4 +49,4 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
     
     e. studies.txt -> data from the studies included in our systematic review, compiled from "chapter 21 supplement.xlsx".
     
-    f. figures 21.1 to 21.4.tiff -> figures produced with the code from chap21.R.
+    f. figures 21.1 to 21.4.tiff -> figures produced with the code from "chap21.R".
