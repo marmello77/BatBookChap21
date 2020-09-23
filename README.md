@@ -6,7 +6,7 @@ If you want to buy our book, click [here](https://amzn.to/2FIKcAQ).
 
 [Ecological Synthesis Lab](https://marcomellolab.wordpress.com) (SintECO).
 
-Authors: Marco A. R. Mello & Renata L. Muylaert
+Authors: Marco A. R. Mello & Renata L. Muylaert.
 
 E-mail: marmello@usp.br. 
 
