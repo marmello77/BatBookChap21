@@ -47,4 +47,4 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
     
     d. software.txt -> data from the software-reference network, compiled from "chapter 21 supplement.xlsx".
     
-    e. studies.txt -> data from the studies included in our review, compiled from "chapter 21 supplement.xlsx".
+    e. studies.txt -> data from the studies included in our systematic review, compiled from "chapter 21 supplement.xlsx".
