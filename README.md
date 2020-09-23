@@ -31,13 +31,17 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
 
 ## List of folders and files
 
-1. BatBookChap21.Rproj -> R project file. Run this file first.
+1. BatBookChap21.Rproj -> R project file. Run this file first, if you plan on running the codes directly from "chap21.R".
 
-2. Data (folder)
+2. Tutorial.Rmd -> tutorial written in RMarkDown. You may prefer to run it instead of "chap21.R", if you are not so familiar with R.
+
+3. Tutorial.PDF -> the same tutorial provided in "Tutorial.Rmd", but already compiled as a PDF document.
+
+4. Data (folder)
 
     a. chapter 21 supplement.xlsx -> main supplement of our chapter, mentioned in the book. It contains all the information extracted from the studies included in our systematic review. See the metadata tab inside for detailed descriptions.
   
-3. Analysis (folder)
+5. Analysis (folder)
  
     a. chap21.R -> script for reproducing the analysis and figures.
     
