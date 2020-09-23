@@ -50,3 +50,8 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
     e. studies.txt -> data from the studies included in our systematic review, compiled from "chapter 21 supplement.xlsx".
     
     f. figures 21.1 to 21.4.tiff -> figures produced with the code from "chap21.R".
+
+
+## Reference
+
+Mello, M. A. R., and R. L. Muylaert. 2020. Network Science as a Framework for Bat Studies. In T. H. Fleming, L. M. Dávalos, and M. A. R. Mello (Eds.) [Phyllostomid Bats: A Unique Mammalian Radiation](https://amzn.to/3mKNpAe). University of Chicago Press, Chicago. 
