@@ -8,7 +8,7 @@ If you want to buy our book, click [here](https://amzn.to/2FIKcAQ).
 
 Authors: Marco A. R. Mello & Renata L. Muylaert
 
-E-mail: marmello@usp.br.  
+E-mail: marmello@usp.br 
 
 Published on September 22nd, 2020 (English version).
 
