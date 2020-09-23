@@ -35,7 +35,7 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
 
 2. Tutorial.Rmd -> tutorial written in RMarkDown. You may prefer to run it instead of "chap21.R", if you are not so familiar with R.
 
-3. Tutorial.PDF -> the same tutorial provided in "Tutorial.Rmd", but already compiled as a PDF document.
+3. Tutorial.PDF -> the same tutorial provided in "Tutorial.Rmd", but compiled as a PDF document.
 
 4. Data (folder)
 
