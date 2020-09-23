@@ -58,4 +58,4 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
 
 ## Reference
 
-Mello, M. A. R., and R. L. Muylaert. 2020. *Network Science as a Framework for Bat Studies*. In T. H. Fleming, L. M. Dávalos, and M. A. R. Mello (Eds.) [Phyllostomid Bats: A Unique Mammalian Radiation](https://amzn.to/3mPryrI). University of Chicago Press, Chicago. 
+Mello, M. A. R., and R. L. Muylaert. 2020. *Network Science as a Framework for Bat Studies*. Chapter 21 in T. H. Fleming, L. M. Dávalos, and M. A. R. Mello (Eds.) [Phyllostomid Bats: A Unique Mammalian Radiation](https://amzn.to/3mPryrI). University of Chicago Press, Chicago. 
