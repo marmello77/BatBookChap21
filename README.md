@@ -1,8 +1,8 @@
 # BatBookChap21
 
-Supplementary material of chapter 21 of the book ["Phyllostomid Bats: A Unique Mammalian Radiation"](https://amzn.to/2FIKcAQ), edited by Theodore H. Fleming, Liliana M. Dávalos, and Marco A. R. Mello, and published by the University of Chicago Press.
+Supplementary material of chapter 21 of the book ["Phyllostomid Bats: A Unique Mammalian Radiation"](https://amzn.to/3mPryrI), edited by Theodore H. Fleming, Liliana M. Dávalos, and Marco A. R. Mello, and published by the University of Chicago Press.
 
-If you want to buy our book, click [here](https://amzn.to/2FIKcAQ).
+If you want to buy our book, click [here](https://amzn.to/3mPryrI).
 
 [Ecological Synthesis Lab](https://marcomellolab.wordpress.com) (SintECO).
 
@@ -54,4 +54,4 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
 
 ## Reference
 
-Mello, M. A. R., and R. L. Muylaert. 2020. *Network Science as a Framework for Bat Studies*. In T. H. Fleming, L. M. Dávalos, and M. A. R. Mello (Eds.) [Phyllostomid Bats: A Unique Mammalian Radiation](https://amzn.to/3mKNpAe). University of Chicago Press, Chicago. 
+Mello, M. A. R., and R. L. Muylaert. 2020. *Network Science as a Framework for Bat Studies*. In T. H. Fleming, L. M. Dávalos, and M. A. R. Mello (Eds.) [Phyllostomid Bats: A Unique Mammalian Radiation](https://amzn.to/3mPryrI). University of Chicago Press, Chicago. 
