@@ -143,7 +143,11 @@ dev.off()
 ##### Draw Figure 21.4 ######
 
 ##Import data and create bipartite object
-sarmentomat = read.delim("sarmento.txt", row.names=1)
+sarmentomat = as.matrix(read.delim("sarmento.txt", row.names=1))
+
+#Inspect the object
+class(sarmentomat)
+sarmentomat
 
 #Create igraph object
 sarmentonet <- graph_from_incidence_matrix(sarmentomat, directed = F, weighted = TRUE) 
