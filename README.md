@@ -35,7 +35,7 @@ If you have questions, corrections, or suggestions, feel free to open an *issue*
 
 2. Data (folder)
 
-    a. chapter 21 supplement.xlsx -> main supplement of our chapter, mentioned in the book. It contains all the information extracted from the studies included in our systematic review. See the metadata for detailed descriptions.
+    a. chapter 21 supplement.xlsx -> main supplement of our chapter, mentioned in the book. It contains all the information extracted from the studies included in our systematic review. See the metadata tab inside for detailed descriptions.
   
 3. Analysis (folder)
  
