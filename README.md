@@ -24,7 +24,7 @@ Disclaimer: You may freely use the software provided here for commercial or non-
 
 Here you will find the supplementary material of chapter 21 ["Network Science as a Framework for Bat Studies"](https://phyllostomids.weebly.com/chapters/network-science-as-a-framework-for-bat-studies), written by Marco A. R. Mello and Renata L. Muylaert.
 
-We also provide scripts and data aimed at reproducing the analysis and figures published in our chapter.
+We also provide scripts and data for reproducing the analysis and figures published in our chapter.
 
 If you have questions, corrections, or suggestions, feel free to open an *issue* or send us a *pull request*.
 
