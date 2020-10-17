@@ -27,11 +27,6 @@ Here you will find the supplementary material of chapter 21 ["Network Science as
 We also provide scripts and data for reproducing the analyses and figures published in our chapter.
 
 
-## Feedback
-
-If you have questions, corrections, or suggestions, feel free to open an [issue](https://github.com/marmello77/BatBookChap21/issues) or send us a [pull request](https://github.com/marmello77/BatBookChap21/pulls).
-
-
 ## List of folders and files
 
 1. BatBookChap21.Rproj -> R project file. Run this file first, if you plan on running the codes directly from "chap21.R".
@@ -57,6 +52,16 @@ If you have questions, corrections, or suggestions, feel free to open an [issue]
     e. studies.txt -> data from the studies included in our systematic review, compiled from "chapter 21 supplement.xlsx".
     
     f. figures 21.1 to 21.4.tiff -> figures produced with the code from "chap21.R".
+
+
+## Feedback
+
+If you have questions, corrections, or suggestions, feel free to open an [issue](https://github.com/marmello77/BatBookChap21/issues) or send us a [pull request](https://github.com/marmello77/BatBookChap21/pulls).
+
+
+## Acknowledgments
+
+We thank our sponsors, especially the Alexander von Humboldt-Stiftung, CNPq, CAPES, and FAPESP, who gave us grants, fellowships, and scholarships. Last, but not least, we thank the [Stack Overflow Community](https://stackoverflow.com), where we solve most of our coding dilemmas. This particular dilemma was solved in this [topic](https://stackoverflow.com/questions/64371998/function-to-abbreviate-scientific-names).
 
 
 ## Reference
