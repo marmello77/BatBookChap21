@@ -1,4 +1,4 @@
-MyTriangle <- function(coords, v=NULL, params) {
+MyDiamond <- function(coords, v=NULL, params) {
   vertex.color <- params("vertex", "color")
   if (length(vertex.color) != 1 && !is.null(v)) {
     vertex.color <- vertex.color[v]
@@ -17,5 +17,5 @@ MyTriangle <- function(coords, v=NULL, params) {
           add=TRUE, inches=FALSE)
 }
 add_shape("diamond", clip=shapes("circle")$clip,
-          plot=MyTriangle, parameters=list(vertex.frame.color="white",
+          plot=MyDiamond, parameters=list(vertex.frame.color="white",
                                            vertex.frame.width=1))

@@ -281,7 +281,7 @@ sarmentonet.lou = cluster_louvain(sarmentonet)
 Import the "diamond" vertex shape:
 
 ```{r}
-source("Analysis/MyTriangle.R")
+source("Analysis/MyDiamond.R")
 ```
 
 Set the vertex shapes:

@@ -176,7 +176,7 @@ E(sarmentonet)$width = E(sarmentonet)$weight/5+1
 sarmentonet.lou = cluster_louvain(sarmentonet)
 
 #Import "diamond" vertex shape
-source("MyTriangle.R")
+source("MyDiamond.R")
 
 #Set vertex shapes
 V(sarmentonet)$shape = V(sarmentonet)$set
