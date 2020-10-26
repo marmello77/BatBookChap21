@@ -12,7 +12,8 @@ MyDiamond <- function(coords, v=NULL, params) {
     vertex.size <- vertex.size[v]
   }
   
-  symbols(x=coords[,1], y=coords[,2], bg=vertex.color,
+  symbols(x=coords[,1], y=coords[,2], 
+          bg=vertex.color, fg=vertex.frame.color,
           stars=cbind(vertex.size, vertex.size, vertex.size, vertex.size),
           add=TRUE, inches=FALSE)
 }
